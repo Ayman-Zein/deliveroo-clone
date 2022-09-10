@@ -1,0 +1,44 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"imgUri": "https://img2.storyblok.com/filters:format(webp)/f/62776/256x256/3057c83aef/fiveguys.jpg",
+			"title": "test"
+		},
+		{
+			"id": 2,
+			"imgUri": "https://img2.storyblok.com/filters:format(webp)/f/62776/256x256/5771399806/hop.jpg",
+			"title": "test"
+		},
+		{
+			"id": 3,
+			"imgUri": "https://img2.storyblok.com/filters:format(webp)/f/62776/256x256/d12ef0972b/waitrose.jpg",
+			"title": "test"
+		},
+		{
+			"id": 4,
+			"imgUri": "https://img2.storyblok.com/filters:format(webp)/f/62776/256x256/99fc69fd34/wagamama.jpg",
+			"title": "test"
+		},
+		{
+			"id": 5,
+			"imgUri": "https://img2.storyblok.com/filters:format(webp)/f/62776/256x256/5771399806/hop.jpg",
+			"title": "test"
+		},
+		{
+			"id": 6,
+			"imgUri": "https://img2.storyblok.com/filters:format(webp)/f/62776/256x256/54ae25d5da/kfc.jpg",
+			"title": "test"
+		},
+		{
+			"id": 7,
+			"imgUri": "https://img2.storyblok.com/filters:format(webp)/f/62776/256x256/6a385f47c7/icon-vegan.jpg",
+			"title": "test"
+		},
+		{
+			"id": 8,
+			"imgUri": "https://img2.storyblok.com/filters:format(webp)/f/62776/256x256/4fd0ed75e4/icon-pizza.jpg",
+			"title": "test"
+		}
+	]
+}
